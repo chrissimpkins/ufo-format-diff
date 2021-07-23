@@ -27,7 +27,5 @@
 	<anchor name="bottom" x="338" y="0"/>
 	<anchor name="top" x="352" y="536"/>
 	<guideline x="243" y="355" angle="0"/>
-	<note>
-		uni0E1A
-	</note>
+	<note>uni0E1A</note>
 </glyph>
