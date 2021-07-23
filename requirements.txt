@@ -1,0 +1,3 @@
+ufonormalizer==0.5.4
+fontTools==4.25.1
+ufoLib2==0.11.1
