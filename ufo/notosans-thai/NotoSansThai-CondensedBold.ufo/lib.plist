@@ -1157,6 +1157,8 @@
 		<string>yoYing-thai.less</string>
 		<string>zero-thai</string>
 	</array>
+	<key>public.objectLibs</key>
+	<dict/>
 	<key>public.postscriptNames</key>
 	<dict>
 		<key>angkhankhu-thai</key>
