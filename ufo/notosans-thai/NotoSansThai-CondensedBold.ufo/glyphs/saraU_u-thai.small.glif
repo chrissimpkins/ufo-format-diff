@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="saraUu-thai.small" format="2">
-  <anchor x="-52" y="-157" name="_bottom"/>
-  <anchor x="-51" y="-438" name="bottom"/>
-  <outline>
-    <component base="saraUu-thai" xOffset="3" yOffset="-163"/>
-  </outline>
+	<outline>
+		<component base="saraUu-thai" xOffset="3" yOffset="-163"/>
+	</outline>
+	<anchor name="_bottom" x="-52" y="-157"/>
+	<anchor name="bottom" x="-51" y="-438"/>
 </glyph>
